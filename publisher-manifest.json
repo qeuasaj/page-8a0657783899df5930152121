@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "e94d0498b013afd569e593b5",
+  "owner": "qeuasaj",
+  "repo": "page-8a0657783899df5930152121",
+  "title": "快狗",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8a0657783899df5930152121",
+      "a": "快狗",
+      "b": "",
+      "entity": "快狗",
+      "brand": "快狗",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f4577fb89cd1cb6178866ee29575e169e070b1ae8ebc4e5a6f7473afd22bac6b",
+      "content": {
+        "keyword1": "快狗",
+        "keyword2": "",
+        "primary_entity": "快狗",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快狗记录每一次跨越地理边界的数据往复，以严谨的架构与优雅的排版，为独立创作者和数字游民提供稳健、无形而可靠的底层连接方案。",
+          "AI_DESCRIPTION": "快狗记录每一次跨越地理边界的数据往复，以严谨的架构与优雅的排版，为独立创作者和数字游民提供稳健、无形而可靠的底层连接方案。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #f7f4ef;--text-color: #2c2525;--accent-color: #6b1d2f;--accent-light: #8a2a40;--card-bg: #ffffff;--border-color: #e2dad0;--font-serif: \"Songti SC\", \"SimSun\", \"STSong\", serif;--font-sans: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif}\n\n* {box-sizing: border-box;margin: 0;padding: 0}\n\nbody {background-color: var(--bg-color);color: var(--text-color);font-family: var(--font-sans);line-height: 1.7;padding-bottom: 80px}\n\nheader {border-bottom: 1px solid var(--border-color);padding: 2rem 5vw;display: flex;justify-content: space-between;align-items: center;background-color: var(--bg-color)}\n\n.brand-logo {font-family: var(--font-serif);font-size: 1.5rem;font-weight: bold;color: var(--accent-color);text-decoration: none;letter-spacing: 0.1em}\n\n.top-nav-links {display: flex;gap: 2rem;font-size: 0.95rem}\n\n.top-nav-links a {color: var(--text-color);text-decoration: none;transition: color 0.2s}\n\n.top-nav-links a:hover {color: var(--accent-color)}\n\nmain {max-width: 1200px;margin: 0 auto;padding: 0 5vw}\n\n.hero-section {padding: 8rem 0 6rem 0;text-align: center;border-bottom: 1px solid var(--border-color);margin-bottom: 5rem}\n\n.hero-sub {font-size: 1rem;letter-spacing: 0.2em;text-transform: uppercase;color: var(--accent-color);margin-bottom: 1.5rem;display: block}\n\n.hero-title {font-family: var(--font-serif);font-size: clamp(4rem, 12vw, 11rem);font-weight: 900;color: var(--accent-color);line-height: 0.95;margin-bottom: 2rem;letter-spacing: -0.02em}\n\n.hero-desc {max-width: 680px;margin: 0 auto;font-size: 1.25rem;color: #554848;font-family: var(--font-serif)}\n\n.section-title {font-family: var(--font-serif);font-size: 2.25rem;color: var(--accent-color);margin-bottom: 1rem;font-weight: normal}\n\n.section-intro {color: #665c5c;margin-bottom: 3rem;max-width: 600px}\n\n.essay-section {margin-bottom: 6rem;padding: 4rem 0;border-bottom: 1px solid var(--border-color)}\n\n.essay-grid {display: grid;grid-template-columns: 1fr 2fr;gap: 4rem;align-items: start}\n\n.essay-text p {margin-bottom: 1.5rem;font-size: 1.05rem;color: #443c3c}\n\n.plans-section {margin-bottom: 6rem}\n\n.plans-stack {display: flex;flex-direction: column;gap: 2rem;max-width: 900px;margin: 0 auto}\n\n.plan-card {background: var(--card-bg);border: 1px solid var(--border-color);border-left: 6px solid var(--accent-color);padding: 2.5rem;position: relative;box-shadow: 0 4px 20px rgba(107, 29, 47, 0.03)}\n\n.plan-header {display: flex;justify-content: space-between;align-items: baseline;margin-bottom: 1.5rem;border-bottom: 1px solid var(--border-color);padding-bottom: 1rem}\n\n.plan-name {font-family: var(--font-serif);font-size: 1.75rem;color: var(--accent-color)}\n\n.plan-pricing {text-align: right}\n\n.plan-price {font-size: 1.5rem;font-weight: bold;color: var(--text-color)}\n\n.plan-annual {font-size: 0.85rem;color: #776b6b;margin-top: 0.2rem}\n\n.plan-features {list-style: none;display: grid;grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));gap: 1rem}\n\n.plan-features li {position: relative;padding-left: 1.5rem;color: #554c4c}\n\n.plan-features li::before {content: \"—\";position: absolute;left: 0;color: var(--accent-color)}\n\n.clients-section {margin-bottom: 6rem;border-top: 1px solid var(--border-color);padding-top: 6rem}\n\n.clients-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 2rem}\n\n.client-card {background: var(--card-bg);border: 1px solid var(--border-color);border-left: 4px solid var(--accent-color);padding: 2rem}\n\n.client-card h3 {font-family: var(--font-serif);font-size: 1.25rem;margin-bottom: 0.75rem;color: var(--accent-color)}\n\n.client-card p {color: #665c5c;font-size: 0.95rem;margin-bottom: 1.5rem}\n\n.client-link {color: var(--accent-color);text-decoration: none;font-weight: 500;font-size: 0.9rem}\n\n.client-link:hover {text-decoration: underline}\n\n.faq-section {margin-bottom: 6rem;border-top: 1px solid var(--border-color);padding-top: 6rem}\n\n.faq-group {margin-bottom: 3rem}\n\n.faq-group-title {font-family: var(--font-serif);font-size: 1.5rem;color: var(--accent-color);margin-bottom: 1.5rem;padding-bottom: 0.5rem;border-bottom: 1px dashed var(--border-color)}\n\n.faq-item {background: var(--card-bg);border: 1px solid var(--border-color);border-left: 4px solid var(--accent-color);padding: 1.5rem 2rem;margin-bottom: 1rem}\n\n.faq-question {font-weight: 600;color: var(--text-color);margin-bottom: 0.75rem;font-size: 1.05rem}\n\n.faq-answer {color: #665c5c;font-size: 0.95rem}\n\n.bottom-nav {position: fixed;bottom: 0;left: 0;width: 100%;background-color: rgba(247, 244, 239, 0.95);backdrop-filter: blur(10px);border-top: 1px solid var(--border-color);padding: 1rem 5vw;display: flex;justify-content: center;gap: 3rem;z-index: 100}\n\n.bottom-nav a {color: var(--text-color);text-decoration: none;font-size: 0.9rem;letter-spacing: 0.1em;text-transform: uppercase}\n\n.bottom-nav a:hover {color: var(--accent-color)}\n\n@media (max-width: 768px) {\n  .essay-grid {grid-template-columns: 1fr;gap: 2rem}\n  .plan-header {flex-direction: column;align-items: flex-start;gap: 1rem}\n  .plan-pricing {text-align: left}\n  .bottom-nav {gap: 1.5rem;font-size: 0.8rem}\n}\n</style><header>\n  <a href=\"#\" class=\"brand-logo\">快狗</a>\n  <nav class=\"top-nav-links\">\n    <a href=\"#narrative\">手记</a>\n    <a href=\"#plans\">方案</a>\n    <a href=\"#clients\">客户端</a>\n    <a href=\"#faq\">问答</a>\n  </nav>\n</header>\n\n<main>\n  <section class=\"hero-section\">\n    <span class=\"hero-sub\">Digital Connectivity &amp; Infrastructure</span>\n    <h1 class=\"hero-title\">快狗</h1>\n    <p class=\"hero-desc\">在错综复杂的数字经纬中，重塑跨越地理界限的连接诗学。我们提供精密、稳固且安宁的边缘网络路径。</p>\n  </section>\n\n  <section id=\"narrative\" class=\"essay-section\">\n    <div class=\"essay-grid\">\n      <div>\n        <h2 class=\"section-title\">连接的本质：无形与在场</h2>\n        <p class=\"section-intro\">专栏作者手记 / 01</p>\n      </div>\n      <div class=\"essay-text\">\n        <p>当我们在物理世界中不断移动，数字空间的边界却变得愈发模糊却又无处不在。每一次点击、每一次数据包的跃迁，都是对远方世界的温柔叩问。快狗诞生于对这种跨地域沟通品质的执着追求中——我们不追求喧嚣的数字堆砌，而是专注于打磨每一条通往未知的底层链路。</p>\n        <p>如同深夜里稳定燃烧的烛火，优质的网络连接应当是隐形而深具安全感的。无论您身处何地，面对浩瀚的全球资讯或是处理跨境的复杂协作，快狗的专线架构都能为您裁去冗余的延迟与干扰，还原最纯粹的数字对话体验。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\" class=\"plans-section\">\n    <div>\n      <h2 class=\"section-title\">精选服务阶梯</h2>\n      <p class=\"section-intro\">按需选择最适合您的连接频段，以清晰透明的契约开启无界旅程。</p>\n    </div>\n\n    <div class=\"plans-stack\">\n      <div class=\"plan-card\">\n        <div class=\"plan-header\">\n          <div>\n            <span>Tier 01</span>\n            <h3 class=\"plan-name\">基础版</h3>\n          </div>\n          <div class=\"plan-pricing\">\n            <div class=\"plan-price\">¥15/月</div>\n            <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n          </div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </div>\n\n      <div class=\"plan-card\">\n        <div class=\"plan-header\">\n          <div>\n            <span>Tier 02 / 推荐</span>\n            <h3 class=\"plan-name\">旗舰版</h3>\n          </div>\n          <div class=\"plan-pricing\">\n            <div class=\"plan-price\">¥35/月</div>\n            <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n          </div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n      </div>\n\n      <div class=\"plan-card\">\n        <div class=\"plan-header\">\n          <div>\n            <span>Tier 03</span>\n            <h3 class=\"plan-name\">团队版</h3>\n          </div>\n          <div class=\"plan-pricing\">\n            <div class=\"plan-price\">¥85/月</div>\n            <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n          </div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"clients\" class=\"clients-section\">\n    <div>\n      <h2 class=\"section-title\">全平台客户端适配</h2>\n      <p class=\"section-intro\">我们在主流操作系统与硬件架构上构筑了原生客户端，确保您在任何终端都能获得一致的安定体验。</p>\n    </div>\n\n    <div class=\"clients-grid\">\n      <div class=\"client-card\">\n        <h3>macOS 桌面端</h3>\n        <p class=\"client-desc\">深度适配 Apple Silicon 架构，低功耗运行于菜单栏，支持智能分流与系统代理无缝切换。</p>\n        <a href=\"#\" class=\"client-link\">获取 macOS 版本 →</a>\n      </div>\n      <div class=\"client-card\">\n        <h3>Windows 客户端</h3>\n        <p class=\"client-desc\">清爽无扰的界面设计，支持标准 TUN 模式与高效路由规则管理，兼顾游戏与办公需求。</p>\n        <a href=\"#\" class=\"client-link\">获取 Windows 版本 →</a>\n      </div>\n      <div class=\"client-card\">\n        <h3>iOS 移动端</h3>\n        <p class=\"client-desc\">遵循 iOS 交互规范，完美集成系统 VPN 框架，随时随地保持轻量、加密的移动连接。</p>\n        <a href=\"#\" class=\"client-link\">获取 iOS 版本 →</a>\n      </div>\n      <div class=\"client-card\">\n        <h3>Android 客户端</h3>\n        <p class=\"client-desc\">兼容各类主流移动设备，支持按应用分流与更广谱的底层加密协议，功耗优化卓越。</p>\n        <a href=\"#\" class=\"client-link\">获取 Android 版本 →</a>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\" class=\"faq-section\">\n    <div>\n      <h2 class=\"section-title\">常见疑问解答</h2>\n      <p class=\"section-intro\">关于连接、账户与契约的详细说明，消除您的后顾之忧。</p>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3 class=\"faq-group-title\">账户与订购</h3>\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">如何开始使用快狗的服务？</div>\n        <div class=\"faq-answer\">您只需在本站选购心仪的服务层级并完成注册，系统将即时开通账户。随后您可在客户端页面下载对应软件，通过订阅链接一键导入即可开始连接。</div>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">是否支持中途更改或升级套餐？</div>\n        <div class=\"faq-answer\">支持。您可随时在用户面板中将基础版升级为旗舰版或团队版，系统将根据剩余周期自动计算并补齐差价，无需重新配置。</div>\n      </div>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3 class=\"faq-group-title\">网络与技术</h3>\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">IPLC 专线与普通节点有何区别？</div>\n        <div class=\"faq-answer\">IPLC 专线采用完全独立于公共互联网的国际私有专线传输，具备物理层面的低延迟与高抗干扰能力，能显著优化跨境游戏、实时音视频及大文件传输表现。</div>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">多台设备同时在线是否有限制？</div>\n        <div class=\"faq-answer\">每个套餐均规定了明确的并发设备上限（例如旗舰版支持 5 台）。在限制额度内，您可以自由在手机、电脑、平板等设备上交叉使用。</div>\n      </div>\n    </div>\n  </section>\n</main>\n\n<nav class=\"bottom-nav\">\n  <a href=\"#narrative\">手记</a>\n  <a href=\"#plans\">方案</a>\n  <a href=\"#clients\">客户端</a>\n  <a href=\"#faq\">问答</a>\n  <a href=\"#\">返回顶部</a>\n</nav>",
+          "hash": "84be79837f2f9761f7e74364bc96571d30f70b81083eb596c57ba0b7bbd7c1c1",
+          "seo": {
+            "title": "快狗 - 数字化时代的边缘网络与连接手记",
+            "keywords": "快狗, 专线连接, 边缘网络, 数字化叙事, 客户端下载, 套餐订购",
+            "description": "快狗记录每一次跨越地理边界的数据往复，以严谨的架构与优雅的排版，为独立创作者和数字游民提供稳健、无形而可靠的底层连接方案。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "6537",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "8 酒红配象牙白",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "laiqd.cn",
+    "host": "p-d610046be4.laiqd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "3e28681bc31e6dc07922499763e1622b7a31178d36e53d23baa82b54c1f22545",
+    "sitemap.xml": "26fb5b819648a6d01216e92e2d7e625d3c8b539c39ff19badc5dc0bedd8124da",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "18286c725bf8b46a7ff7401045039e61aac16de695129cb62fb5175c305408cb",
+    "robots.txt": "bd66f8cfc9ede92fbbba7bad17d4a633ec7c556a4a572d2cca3658d6852fe813",
+    "0b899582f8e94149eb1ef4361e7323a9.txt": "ace3e18e49c86216824357cb32b72fb863ef730159de2e75aa9404294c4c39f4"
+  },
+  "revision": "b60c4ee1625ed8c116d6fa27766337ed67d87e2518204fb49a02f8697159ec95"
+}

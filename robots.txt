@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-d610046be4.laiqd.cn/sitemap.xml
